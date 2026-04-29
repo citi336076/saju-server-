@@ -1,0 +1,16 @@
+{
+  "name": "saju-server",
+  "version": "1.0.0",
+  "description": "신비로운 사주팔자 앱 백엔드 서버",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
